@@ -24,18 +24,18 @@ szöveges formára alakítható, kiírva az adattagok értékét.
 Írj egy AnakinSkywalker osztályt, ami a Jedi leszármazottja, és megvalósítja a Sith interfészt.
 Az osztálynak egy default konstruktora legyen, ami beállítja Anakin tulajdonságait.
 Anakin ereje 150, és átállhat a sötét oldalra.
-– Ha Anakin elengedi a haragját, akkor ereje egy 0-10 közötti véletlenszerű lebegőpontos számmal nő.
-– Anakin akkor teremti meg az egyensúlyt az erőben, ha ereje nagyobb, mint 1000.
-– Az osztály legyen továbbá szöveges formára alakítható. Az adattagok értékein kívül
+- Ha Anakin elengedi a haragját, akkor ereje egy 0-10 közötti véletlenszerű lebegőpontos számmal nő.
+- Anakin akkor teremti meg az egyensúlyt az erőben, ha ereje nagyobb, mint 1000.
+- Az osztály legyen továbbá szöveges formára alakítható. Az adattagok értékein kívül
 írja ki azt is, hogy a Anakin Skywalkerről van szó.
 
 Írj egy Uralkodo osztályt, ami implementálja az EroErzekeny és Sith interfészeket.
-– Az osztálynak legyen egy lebegőpontos gonoszsag adattagja.
-– Az osztály rendelkezzen egy default konstruktorral, ami 100-ra állítja az adattag értékét.
+- Az osztálynak legyen egy lebegőpontos gonoszsag adattagja.
+- Az osztály rendelkezzen egy default konstruktorral, ami 100-ra állítja az adattag értékét.
 A metódusai az alábbiak szerint legyenek megvalósítva: az Uralkodo ereje a
 gonoszságának kétszeresével egyezik meg, és bármilyen EroErzekeny-t képes legyőzni,
 akinek ereje kisebb, mint az Uralkodó gonoszsága. Ha az Uralkodo elengedi a haragját, akkor gonoszsága 50-el nő.
-– Az osztály legyen szöveges formára alakítható, ami kiírja, hogy az Uralkodóról van
+- Az osztály legyen szöveges formára alakítható, ami kiírja, hogy az Uralkodóról van
 szó, és megadja a gonoszságát.
 
 Írj egy StarWars nevű futtatható osztályt.
